@@ -34,8 +34,8 @@ It allows users to capture photos using their camera, apply filters, choose layo
 
 ## Screenshots
 
-![Screenshot 1](img/ProBooth_1772958434701.png)
+![Screenshot 1](img/screenshot1.png)
 
-![Screenshot 2](img/Screenshot from 2026-03-08 16-18-24.png)
+![Screenshot 2](img/screenshot2.png)
 
-![Screenshot 3](img/Screenshot from 2026-03-08 16-26-14.png)
+![Screenshot 3](img/ProBooth_1772958434701.png)
